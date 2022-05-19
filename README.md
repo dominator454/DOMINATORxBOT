@@ -1,6 +1,6 @@
-# á—ªOá—°Iá‘Žá—©TOá–‡xá—·OT
+# ᗪOᗰIᑎᗩTOᖇxᗷOT
 A simple Telegram userbot based on Telethon .
-![á—ªOá—°Iá‘Žá—©TOá–‡xá—·OT logo](https://telegra.ph/file/34f0940f9d5623c577a2c.jpg)
+![ᗪOᗰIᑎᗩTOᖇxᗷOT logo](https://telegra.ph/file/34f0940f9d5623c577a2c.jpg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TgCatUB/catuserbot)
 [![CodeFactor](https://www.codefactor.io/repository/github/TgCatUB/catuserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/TgCatUB/catuserbot)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -17,19 +17,14 @@ A simple Telegram userbot based on Telethon .
 
 
 
-## How to deploy catuserbot
+## How to deploy dominatorbot
 ### Heroku Deploy
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/dominator454/nekopack)
   
 ## Support
    <a href="https://t.me/dominator_bot_official"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    <a href="https://t.me/dominator_bot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   
-## Inspiration
-   - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
-   - [Uniborg](https://github.com/SpEcHiDe/UniBorg) & [Uniborg fork](https://github.com/ravana69/PornHub)
-   - Nana-Remix
-   - [Userge-X](https://github.com/code-rgb/USERGE-X/)
+  
    
 ## Disclaimer
 

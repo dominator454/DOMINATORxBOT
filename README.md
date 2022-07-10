@@ -1,4 +1,5 @@
 # ᗪOᗰIᑎᗩTOᖇxᗷOT
+# CLONE OF CAT BOT
 A simple Telegram userbot based on Telethon .
 ![ᗪOᗰIᑎᗩTOᖇxᗷOT logo](https://telegra.ph/file/34f0940f9d5623c577a2c.jpg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TgCatUB/catuserbot)
@@ -48,3 +49,4 @@ Thanks for using our bot 🥰
 
 ## Credits
    - Special thanks to [DOMINATOR](https://github.com/dominator454) for Telethon library
+   - [CAT BOT]

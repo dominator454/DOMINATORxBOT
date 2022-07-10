@@ -38,7 +38,7 @@ async def startup_process():
     print("➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖")
     print("Yay your userbot is officially working.!!!")
     print(
-        f"Congratulation, now type {cmdhr}alive to see message if catub is live\
+        f"Congratulation, now type {cmdhr}alive to see message if bot is live\
         \nIf you need assistance, head to https://t.me/dominator_bot_support"
     )
     print("➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖")

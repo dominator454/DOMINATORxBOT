@@ -179,7 +179,7 @@ class CatUserBotClient(TelegramClient):
                         pastelink = await paste_message(
                             ftext, pastetype="s", markdown=False
                         )
-                        link = "[here](https://t.me/catuserbot_support)"
+                        link = "[here](https://t.me/dominator_bot_support)"
                         text = (
                             "**CatUserbot Error report**\n\n"
                             + "If you wanna you can report it"

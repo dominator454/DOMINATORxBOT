@@ -19,6 +19,11 @@ A simple Telegram userbot based on Telethon .
 
 
 ## How to deploy dominatorbot
+
+## `Scan QR Code For Session`
+
+[![DOMINATORxBOT](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@dominator454/stringforbot?v=1)
+
 ### Heroku Deploy
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/dominator454/nekopack)
   
